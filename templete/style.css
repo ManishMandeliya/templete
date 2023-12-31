@@ -1,0 +1,133 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    width: 1430px;
+    height: 600px;
+    padding: 10px 25px 10px 25px; 
+}
+.top{
+    background-color: rgb(160, 162, 167);
+    width: 1000px;
+    height: 1000px;
+    margin-left: 200px;
+    }
+.container{
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 800px;
+    /* border: 2px red solid; */
+    background-image: url(./Screenshot\ 2023-12-31\ 192453-PhotoRoom.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center;
+    padding-top: 55px;
+    }
+.title{
+    /* background-color: aquamarine; */
+    height:80px;
+    width: 400px;
+    margin-left: 230px;
+    margin-top: 20px;
+}
+
+.main1{
+    width: 800px;
+    height: 760px;
+    border: 2px solid rgb(217, 214, 214);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+    background-color: rgba(255, 255, 255, 0.868);
+    
+}
+.nav1{
+    width: auto;
+    height: 26px;
+    /* border: 1px solid red; */
+    margin-top: 5px;
+    background-color: rgba(202, 197, 197, 0.667);
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 7px;
+}
+a{
+    text-decoration: none;
+    color: rgb(7, 7, 128);
+}
+.main-0{
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
+.main2{
+    /* background-color: aqua; */
+    /* border: 1px solid red; */
+    height: 600px;
+    width: 170px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.main3{
+    /* background-color: azure; */
+    height: 300px;
+    width: 160px;
+    padding: 5px;
+    margin-top: 5px;
+    border : 1px solid ;
+    padding-bottom: 15px;
+}
+.main4{
+    width: 170px;
+    height: 230px;
+    /* background-color: blue; */
+    margin-top: 7px;
+  
+    
+}
+h4{
+    margin-left: 10px;
+}
+ul{
+    margin-left: 20px;
+    line-height: 1.6;
+}
+.pr1{
+    /* background-color: blueviolet; */
+    /* border: 2px solid red; */
+    height: 650px;
+    width: 600px;
+    margin-left: 10px;
+    padding: 10px 7px 0px 7px;
+    line-height: 1.5;
+    color: rgba(9, 58, 156, 0.863);
+}
+.pr2{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1.5px solid black;
+    
+}
+p{
+    font-size: 14px;
+    text-align: justify;
+}
+hr{
+    border: 1px solid gray;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.head1{
+    margin-top: 10px;
+    color: rgb(9, 111, 40);
+}
+    
